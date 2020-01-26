@@ -6,6 +6,6 @@
 
 * ADD LICENSE
 
-## [0.0.2]
+## [0.0.3]
 
 * ADD DESCRIPTION AND EXAMPLE
