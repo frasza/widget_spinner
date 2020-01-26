@@ -1,6 +1,6 @@
 name: widget_spinner
-description: A new Flutter package project.
-version: 0.0.2
+description: Widget spinner package can be used to rotate desired widget on tap - inspired by fidget spinner! Number of spins and duration of the animation can be modified.
+version: 0.0.3
 homepage: https://github.com/frasza/widget_spinner
 
 environment:
