@@ -6,9 +6,9 @@ Inspired by fidget spinners.
 
 ## Usage / Example
 
-```
+```dart
 WidgetSpinner(
-    // How many turns will the aniamtion go for
+    // How many turns will the animation go for
     turns: 10,
     // How long will the animation last
     duration: 10,
