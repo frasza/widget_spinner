@@ -1,14 +1,24 @@
 # widget_spinner
 
-A new Flutter package project.
+Widget Spinner animation!
 
-## Getting Started
+Inspired by fidget spinners.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Usage / Example
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```
+WidgetSpinner(
+    // How many turns will the aniamtion go for
+    turns: 10,
+    // How long will the animation last
+    duration: 10,
+    // Widget that spins
+    child: Container(
+        width: 200,
+        height: 200,
+        color: Colors.red,
+    ),
+)
+```
+
+![Widget Spinner](https://media.giphy.com/media/j72CRqh6Hfqjz7GePi/giphy.gif)
